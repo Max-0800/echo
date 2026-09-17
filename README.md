@@ -1,4 +1,4 @@
-# Echo Project
+# Reibot Project
 A script that uses an Ollama LLM to run discord bot for a polished and free user experience.
 
 Use this as a reference or inspiration for your future AI hosting needs!
