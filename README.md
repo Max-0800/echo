@@ -13,4 +13,4 @@ Host machine:
   Run an LLM using ollama.
 Python:
   Required libs:
-  ollama, discord.py, asyncio, io, psutil, pytz, yt_dlp, edge_tts, subprocess
+  ollama, discord, asyncio, io, psutil, pytz, subprocess, and pynvml
